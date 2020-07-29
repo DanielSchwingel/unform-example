@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://i.imgur.com/Jq3bKPn.png" alt="Unform" />
 </p>
-<h1>unform-example</h1>
+<h1 align="center">unform-example</h1>
 <p align="center">Sample application of the "unform" lib from Rocketseat!  </p>
 
 <h3>:muscle: Overview</h3> 
