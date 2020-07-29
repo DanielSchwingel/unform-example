@@ -3,9 +3,19 @@ input {
     padding: 5px 0px;
     font-family: 'Ubuntu';
     font-size: 14px;
+    border: none;
+    border-bottom: 1px solid #000;
+}
+
+input[type=text]:focus, [type=password]:focus {
+    border: 0 none;
+    outline: 0;
+    border-bottom: 2px solid #65a300;
 }
 
 .error {
     color: red;
-    font-size: 10px;
+    font-size: 12px;
+    font-weight: 500;
 }
+

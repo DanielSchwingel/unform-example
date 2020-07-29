@@ -96,7 +96,7 @@ function App() {
 						</div>
 					</div>
 				</Scope>
-				<button type='submit'>Enviar</button>
+				<button type='submit'>E-MAIL</button>
 			</Form>
 		</div>
 	);

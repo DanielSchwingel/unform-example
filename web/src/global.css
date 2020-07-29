@@ -39,3 +39,16 @@ label {
 label {
 	font-weight: 500;
 }
+
+button {
+	margin-top: 10px;
+	margin-left: 35%;
+	border: none;
+	background-color: #9400d3;
+	color: #FFF;
+	height: 30px;
+	font-size: 14px;
+	font-weight: 500;
+	font-family: 'Ubuntu';
+	width: 150px;
+}
