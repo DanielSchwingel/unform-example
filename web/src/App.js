@@ -56,7 +56,7 @@ function App() {
 	return (
 		<div className='container'>
 			<h1>Formulário com 'onform' da </h1>
-			<img src={imgRocketseat}/>
+			<img src={imgRocketseat} alt='Logo da RocketSeat'/>
 			<Form ref={formRef} onSubmit={handleSubmit}>
 				<div className='field'>
 					<label htmlFor='name'>Nome:</label>
