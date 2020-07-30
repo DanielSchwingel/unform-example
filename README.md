@@ -2,9 +2,11 @@
 <p align="center">
   <img src="https://i.imgur.com/Jq3bKPn.png" alt="Unform" />
 </p>
-<h1 align="center">unform-example</h1>
-<p align="center">Sample application of the "unform" lib from Rocketseat!  </p>
-
+<!-- <h1 align="center">unform-example</h1> -->
+<h4 align="center">Sample application of the "unform" lib from Rocketseat!  </h4>
+<p align = "center">
+  <img alt = "Demo no unform" src = "https://i.imgur.com/Kk2jre9.gif">
+</p>
 <h3>:muscle: Overview</h3> 
 <p>Application made to test the <b>'unform'</b> library of RocketSeat</p>
 
